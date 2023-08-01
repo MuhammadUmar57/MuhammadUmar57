@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
-<h3 align="center">A passionate Mobile Application Developer in Flutter from Pakistan.</h3>
+<h3 align="center">A passionate .Net Developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -7,15 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **ASP.Net Core**
 
-- 🌱 I’m currently learning **API's with Null safety**
-
-- 🤝 I’m looking for help with **API's with null safety**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadUmar57](https://github.com/MuhammadUmar57)
 
-- 💬 Ask me about **Flutter , Firebase , HTML ,CSS , Bootstrap , Php**
+- 💬 Ask me about **ASP.Net Core , Jquery , SQL , C# , HTML , CSS , Bootstrap , Php**
 
 - 📫 How to reach me **muhammad.umar0516@gmail.com**
 
